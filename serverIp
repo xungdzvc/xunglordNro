@@ -1,6 +1,4 @@
-ListServer:
-Ngọc Rồng Hub 2:103.178.234.84:16666:0:1,NROSCENT:14.225.231.172:14445:0:0,NROVAR:ngocrongvar.online:14445:0:1,Ngọc Rồng Royal:161.248.238.104:14445:0:0,Ngọc Rồng Zan:nsohina.online:14445:0:0,
+ListServer:Ngọc Rồng Hub 2:103.178.234.84:16666:0:1,NROSCENT:14.225.231.172:14445:0:0,NROVAR:ngocrongvar.online:14445:0:1,Ngọc Rồng Royal:161.248.238.104:14445:0:0,Ngọc Rồng Zan:nsohina.online:14445:0:0,
 LocalHost:127.0.0.1:14445:0:0:0
 
-ListLogo:
-https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png,https://nrolord4.com/assets/VgNQu89-0-NIayUaz.png,https://example.com/logo3.png
+ListLogo:https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png,https://nrolord4.com/assets/VgNQu89-0-NIayUaz.png,https://example.com/logo3.png
