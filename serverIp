@@ -7,7 +7,7 @@
     "typeSv": 1,
     "homeUrl": "nrohubv2.com",
     "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
-    "isUnLockOptionTemplate": 0,
+    "isUnLockOptionTemplate": 0
   },
   {
     "nameServer": "NROSCENT",
@@ -17,7 +17,7 @@
     "typeSv": 0,
     "homeUrl": "nrohubv2.com",
     "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
-    "isUnLockOptionTemplate": 0,
+    "isUnLockOptionTemplate": 0
   },
 {
     "nameServer": "NROSCENT",
@@ -27,7 +27,7 @@
     "typeSv": 0,
     "homeUrl": "nrohubv2.com",
     "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
-    "isUnLockOptionTemplate": 0,
+    "isUnLockOptionTemplate": 0
   },
 {
     "nameServer": "NROSCENT",
@@ -37,7 +37,7 @@
     "typeSv": 0,
     "homeUrl": "nrohubv2.com",
     "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
-    "isUnLockOptionTemplate": 0,
+    "isUnLockOptionTemplate": 0
   }
 {
     "nameServer": "localHost",
@@ -47,6 +47,6 @@
     "typeSv": 0,
     "homeUrl": "localhost.com",
     "logoUrl": "https://ngocrongonline.com/images/logoW2.png",
-    "isUnLockOptionTemplate": 0,
+    "isUnLockOptionTemplate": 0
   }
 ]
