@@ -40,7 +40,7 @@
     "isUnLockOptionTemplate": 0
   },
 {
-    "nameServer": "localHost",
+    "nameServer": "localHost1",
     "address": "127.0.0.1",
     "port": 14445,
     "language": 0,
