@@ -1,0 +1,15 @@
+[
+  {
+    "nameServer": "Ngọc Rồng Hub 2",
+    "address": "103.178.234.84",
+    "port": 16666,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "nrohubv2.com",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello"
+
+  }
+]
