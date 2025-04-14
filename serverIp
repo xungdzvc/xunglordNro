@@ -7,7 +7,9 @@
     "typeSv": 1,
     "homeUrl": "nrohubv2.com",
     "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
-    "isUnLockOptionTemplate": 0
+    "isReadKey": 0
+    "key": "hello"
+
   },
   {
     "nameServer": "NROSCENT",
@@ -18,6 +20,8 @@
     "homeUrl": "nroscent.com",
     "logoUrl": "https://nroscent.com/Assets/Images/NRO.png",
     "isUnLockOptionTemplate": 0
+    "isReadKey": 0
+    "key": "hello"
   },
 {
     "nameServer": "localHostLong",
@@ -28,6 +32,8 @@
     "homeUrl": "localhostLong.com",
     "logoUrl": "https://ngocrongonline.com/images/logoW2.png",
     "isUnLockOptionTemplate": 0
+    "isReadKey": 0
+    "key": "hello"
   },
 {
     "nameServer": "localHostInt",
@@ -38,5 +44,7 @@
     "homeUrl": "localhostnt.com",
     "logoUrl": "https://ngocrongonline.com/images/logoW2.png",
     "isUnLockOptionTemplate": 0
+    "isReadKey": 0
+    "key": "hello"
   }
 ]
