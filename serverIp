@@ -7,7 +7,8 @@
     "typeSv": 1,
     "homeUrl": "nrohubv2.com",
     "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
-    "isReadKey": 0
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
     "key": "hello"
 
   },
@@ -19,8 +20,8 @@
     "typeSv": 0,
     "homeUrl": "nroscent.com",
     "logoUrl": "https://nroscent.com/Assets/Images/NRO.png",
-    "isUnLockOptionTemplate": 0
-    "isReadKey": 0
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
     "key": "hello"
   },
 {
@@ -31,8 +32,8 @@
     "typeSv": 1,
     "homeUrl": "localhostLong.com",
     "logoUrl": "https://ngocrongonline.com/images/logoW2.png",
-    "isUnLockOptionTemplate": 0
-    "isReadKey": 0
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
     "key": "hello"
   },
 {
@@ -43,8 +44,8 @@
     "typeSv": 0,
     "homeUrl": "localhostnt.com",
     "logoUrl": "https://ngocrongonline.com/images/logoW2.png",
-    "isUnLockOptionTemplate": 0
-    "isReadKey": 0
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
     "key": "hello"
   }
 ]
