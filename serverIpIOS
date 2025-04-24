@@ -9,5 +9,29 @@
     "isUnLockOptionTemplate": 0,
     "isReadKey": 0,
     "key": "hello"
-  },
+  }
+{
+    "nameServer": "NROSCENT",
+    "address": "14.225.231.172",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 0,
+    "homeUrl": "nroscent.com",
+    "logoUrl": "https://nroscent.com/Assets/Images/NRO.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello"
+  },{
+    "nameServer": "Ngọc Rồng Lạc Hồng",
+    "address": "163.61.110.58",
+    "port": 8386,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "nrolachong.online",
+    "logoUrl": "https://nrolachong.online/Assets/Images/logo1.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello"
+  }
+
 ]
