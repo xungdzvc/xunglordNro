@@ -1,4 +1,37 @@
 [
+{
+    "nameServer": "Ngọc Rồng Hub 2",
+    "address": "103.178.234.84",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 0,
+    "homeUrl": "https://nrohubv2.com",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/clm.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello"
+    "typeReadHpMod": 0,
+    "typeGetParam": 0.
+    "isUnlockItemTemplate": 0,
+    "isPaintLuongLock": 0
+
+  },{
+    "nameServer": "Local",
+    "address": "127.0.0.1",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 0,
+    "homeUrl": "",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello"
+    "typeReadHpMod": 0,
+    "typeGetParam": 0.
+    "isUnlockItemTemplate": 0,
+    "isPaintLuongLock": 0
+
+  },
   {
     "nameServer": "NRO",
     "address": "160.191.55.63",
