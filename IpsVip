@@ -63,7 +63,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
-    "isPaintLuongLock": 0
+    "isPaintLuongLock": 1
 
   }
 ]
