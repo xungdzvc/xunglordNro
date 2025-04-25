@@ -13,7 +13,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
-    "isPaintLuongLock": 1
+    "isPaintRuby": 1
 
   },{
     "nameServer": "Local",
@@ -29,7 +29,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
-    "isPaintLuongLock": 0
+    "isPaintRuby": 0
 
   },
   {
@@ -46,7 +46,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
-    "isPaintLuongLock": 0
+    "isPaintRuby": 0
 
   },
   {
@@ -63,7 +63,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
-    "isPaintLuongLock": 1
+    "isPaintRuby": 1
 
   }
 ]
