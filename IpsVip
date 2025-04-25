@@ -1,5 +1,4 @@
-[
-{
+[{
     "nameServer": "Ngọc Rồng Hub1 2",
     "address": "103.178.234.84",
     "port": 16666,
@@ -14,10 +13,8 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
-  },
-{
-    "nameServer": "Ngọc Rồng Hub2 2",
+},
+{   "nameServer": "Ngọc Rồng Hub2 2",
     "address": "103.178.234.84",
     "port": 16666,
     "language": 0,
@@ -31,10 +28,8 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
-{
-    "nameServer": "Ngọc Rồng Hub3 2",
+{  "nameServer": "Ngọc Rồng Hub3 2",
     "address": "103.178.234.84",
     "port": 16666,
     "language": 0,
@@ -48,10 +43,8 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
-{
-    "nameServer": "Ngọc Rồng Hub4 2",
+{   "nameServer": "Ngọc Rồng Hub4 2",
     "address": "103.178.234.84",
     "port": 16666,
     "language": 0,
@@ -65,7 +58,6 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
 {
     "nameServer": "Ngọc Rồng Hub5 2",
@@ -82,7 +74,114 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
+  },
+{   "nameServer": "Ngọc Rồng Hub6 2",
+    "address": "103.178.234.84",
+    "port": 16666,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://nrohubv2.com",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isUnlockItemTemplate": 0,
+    "isPaintRuby": 0
+  },
+{   "nameServer": "Ngọc Rồng Hub 2",
+    "address": "103.178.234.84",
+    "port": 16666,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://nrohubv2.com",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isUnlockItemTemplate": 0,
+    "isPaintRuby": 0
+  },{
+    "nameServer": "Ngọc Rồng Hub1 2",
+    "address": "103.178.234.84",
+    "port": 16666,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://nrohubv2.com",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isUnlockItemTemplate": 0,
+    "isPaintRuby": 0
+  },
+{
+    "nameServer": "Ngọc Rồng Hub2 2",
+    "address": "103.178.234.84",
+    "port": 16666,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://nrohubv2.com",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isUnlockItemTemplate": 0,
+    "isPaintRuby": 0
+  },
+{   "nameServer": "Ngọc Rồng Hub3 2",
+    "address": "103.178.234.84",
+    "port": 16666,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://nrohubv2.com",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isUnlockItemTemplate": 0,
+    "isPaintRuby": 0
+  },
+{
+    "nameServer": "Ngọc Rồng Hub4 2",
+    "address": "103.178.234.84",
+    "port": 16666,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://nrohubv2.com",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isUnlockItemTemplate": 0,
+    "isPaintRuby": 0
+  },
+{
+    "nameServer": "Ngọc Rồng Hub5 2",
+    "address": "103.178.234.84",
+    "port": 16666,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://nrohubv2.com",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/EYTEQYQEWY.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isUnlockItemTemplate": 0,
+    "isPaintRuby": 0
   },
 {
     "nameServer": "Ngọc Rồng Hub6 2",
@@ -99,7 +198,6 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
 {
     "nameServer": "Ngọc Rồng Hub 2",
@@ -116,7 +214,6 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
 {
     "nameServer": "Ngọc Rồng Hub 2",
@@ -133,7 +230,6 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
 {
     "nameServer": "Ngọc Rồng Hub 2",
@@ -150,7 +246,6 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
 {
     "nameServer": "Ngọc Rồng Hub 2",
@@ -167,7 +262,6 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
 {
     "nameServer": "Ngọc Rồng2 Hub 2",
@@ -184,10 +278,8 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
-{
-    "nameServer": "Ngọc 1Rồng Hub 2",
+{   "nameServer": "Ngọc 1Rồng Hub 2",
     "address": "103.178.234.84",
     "port": 16666,
     "language": 0,
@@ -201,10 +293,8 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
-{
-    "nameServer": "Ngọc1 Rồng Hub 2",
+{   "nameServer": "Ngọc1 Rồng Hub 2",
     "address": "103.178.234.84",
     "port": 16666,
     "language": 0,
@@ -218,10 +308,8 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
-{
-    "nameServer": "Ngọc Rồng 1Hub 2",
+{   "nameServer": "Ngọc Rồng 1Hub 2",
     "address": "103.178.234.84",
     "port": 16666,
     "language": 0,
@@ -235,10 +323,8 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   },
-{
-    "nameServer": "Ngọc Rồng Hub1 2",
+{    "nameServer": "Ngọc Rồng Hub1 2",
     "address": "103.178.234.84",
     "port": 16666,
     "language": 0,
@@ -252,6 +338,5 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
-
   }
 ]
