@@ -324,9 +324,9 @@
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
   },
-{    "nameServer": "Ngọc Rồng Hub1 2",
+{    "nameServer": "Local Hub",
     "address": "103.178.234.84",
-    "port": 16666,
+    "port": 14445,
     "language": 0,
     "typeSv": 1,
     "homeUrl": "https://nrohubv2.com",
