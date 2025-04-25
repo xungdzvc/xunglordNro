@@ -4,7 +4,7 @@
     "address": "103.178.234.84",
     "port": 16666,
     "language": 0,
-    "typeSv": 0,
+    "typeSv": 1,
     "homeUrl": "https://nrohubv2.com",
     "logoUrl": "https://nrohubv2.com/Assets/Images/clm.png",
     "isUnLockOptionTemplate": 0,
@@ -13,7 +13,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
-    "isPaintLuongLock": 0
+    "isPaintLuongLock": 1
 
   },{
     "nameServer": "Local",
