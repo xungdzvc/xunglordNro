@@ -1,7 +1,7 @@
 [{
     "nameServer": "Ngọc Rồng BBN",
-    "address": "103.90.227.191",
-    "port": 14445,
+    "address": "sv1.ngocrongbbn.online",
+    "port": 7979,
     "language": 0,
     "typeSv": 1,
     "homeUrl": "NgocrongBBN.online",
