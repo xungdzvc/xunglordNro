@@ -59,4 +59,19 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
+},{
+    "nameServer": "Ngọc Rồng Berry",
+    "address": "ngocrongberry.io.vn",
+    "port": 11111,
+    "language": 0,
+    "typeSv": 0,
+    "homeUrl": "https://nroberry.shop/",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/berry.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isUnlockItemTemplate": 0,
+    "isPaintRuby": 1
 }]
