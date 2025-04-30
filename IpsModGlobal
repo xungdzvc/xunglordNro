@@ -44,4 +44,19 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 0
+},{
+    "nameServer": "Ngọc Rồng Lạc Hồng",
+    "address": "163.61.110.58",
+    "port": 8386,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "nrolachong.online",
+    "logoUrl": "https://nrohubv2.com/Assets/Images/nrolachong.png",
+    "isUnLockOptionTemplate": 0,
+    "isReadKey": 0,
+    "key": "hello",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isUnlockItemTemplate": 0,
+    "isPaintRuby": 0
 }]
