@@ -27,7 +27,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
-    "isPaintRuby": 0
+    "isPaintRuby": 1
 }
 ,{
     "nameServer": "Nro new",
@@ -58,7 +58,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
-    "isPaintRuby": 0
+    "isPaintRuby": 1
 },{
     "nameServer": "Ngọc Rồng Berry",
     "address": "ngocrongberry.io.vn",
