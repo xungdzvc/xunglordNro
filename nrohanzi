@@ -1,3 +1,5 @@
+[
+{
  "nameServer": "Ngọc Rồng Cool",
     "address": "sv1.ngocrongcool.online",
     "port": 11111,
@@ -12,3 +14,6 @@
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
     "isPaintRuby": 1
+
+}
+]
