@@ -72,7 +72,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isUnlockItemTemplate": 0,
-    "isPaintRuby": 0
+    "isPaintRuby": 1
 },{
     "nameServer": "Ngọc Rồng Rise",
     "address": "sv1.ngocronggoc.online",
