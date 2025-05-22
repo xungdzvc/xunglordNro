@@ -70,7 +70,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 1
-},,{  "nameServer": "Nro",
+},{  "nameServer": "Nro",
     "address": "160.191.55.63",
     "port": 14445,
     "language": 0,
