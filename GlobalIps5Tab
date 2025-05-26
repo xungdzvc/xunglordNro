@@ -134,7 +134,7 @@
     "address": "sv1.ngocrongcool.online",
     "port": 11111,
     "language": 0,
-    "typeSv": 0,
+    "typeSv": 1,
     "homeUrl": "",
     "logoUrl": "",
     "isUnLockOptionTemplate": 0,
