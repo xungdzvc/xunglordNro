@@ -142,18 +142,6 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 1
-},{  "nameServer": "NRO SUMMER 2025",
-    "address": "36.50.135.131",
-    "port": 14445,
-    "language": 0,
-    "typeSv": 1,
-    "homeUrl": "https://nrosummer2025.fun",
-    "logoUrl": "https://nrosummer2025.fun/Public/Assets/Images/Logo1.png",
-    "isUnLockOptionTemplate": 1,
-    "listPorata": " 454, 921, 2104, 1255, 1324, 1514",
-    "typeReadHpMod": 0,
-    "typeGetParam": 0,
-    "isPaintRuby": 0
 },{  "nameServer": "NRNEOGALICK",
     "address": "14.225.254.94",
     "port": 14445,
