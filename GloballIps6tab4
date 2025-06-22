@@ -34,6 +34,18 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 0
+},{  "nameServer": "Rồng Thần Online",
+    "address": "14.225.217.223",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 0,
+    "homeUrl": "https://rongthan.online/",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 2104, 1255, 1324, 1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 1,
+    "isPaintRuby": 1
 },{  "nameServer": "Nro Tranh Bá",
     "address": "sv1.ngocronggoc.online",
     "port": 8123,
