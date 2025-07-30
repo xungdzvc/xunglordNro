@@ -43,9 +43,9 @@
     "logoUrl": "",
     "isUnLockOptionTemplate": 0,
     "listPorata": " 454, 921, 2104, 1255, 1324, 1514",
-    "typeReadHpMod": 0,
-    "typeGetParam": 0,
-    "isPaintRuby": 0
+    "typeReadHpMod": 1,
+    "typeGetParam": 1,
+    "isPaintRuby": 1
 },{  "nameServer": "Ngọc Rồng Genz 2",
     "address": "160.250.247.82",
     "port": 14445,
