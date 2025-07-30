@@ -34,6 +34,18 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 0
+},{  "nameServer": "NRO Ốc Tiêu",
+    "address": "15.225.254.107",
+    "port": 14446,
+    "language": 0,
+    "typeSv": 0,
+    "homeUrl": "",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 2104, 1255, 1324, 1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isPaintRuby": 0
 },{  "nameServer": "Ngọc Rồng Genz 2",
     "address": "160.250.247.82",
     "port": 14445,
