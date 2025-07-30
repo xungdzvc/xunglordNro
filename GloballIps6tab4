@@ -36,7 +36,7 @@
     "isPaintRuby": 0
 },{  "nameServer": "NRO Ốc Tiêu",
     "address": "14.225.254.107",
-    "port": 14446,
+    "port": 12345,
     "language": 0,
     "typeSv": 0,
     "homeUrl": "",
