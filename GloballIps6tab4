@@ -34,6 +34,18 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 0
+},{  "nameServer": "Đại chiến NR",
+    "address": "160.250.247.151",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 0,
+    "homeUrl": "http://ngocrongdaichien.top/",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 2104, 1255, 1324, 1514,1948, 1949",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isPaintRuby": 0
 },{  "nameServer": "Ngọc Rồng Cool",
     "address": "sv1.ngocrongcool.online",
     "port": 11111,
