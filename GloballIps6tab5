@@ -46,9 +46,9 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 1
-},{  "nameServer": "Ngọc Rồng Cool",
-    "address": "sv1.ngocrongcool.online",
-    "port": 11111,
+},{  "nameServer": "Ngọc Rồng Zeno",
+    "address": "103.90.226.146",
+    "port": 14445,
     "language": 0,
     "typeSv": 1,
     "homeUrl": "",
