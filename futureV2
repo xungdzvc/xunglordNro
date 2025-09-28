@@ -10,7 +10,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 1
-}{  "nameServer": "Tân Binh (TEST)",
+},{  "nameServer": "Tân Binh (TEST)",
     "address": "14.225.192.38",
     "port": 8386,
     "language": 0,
