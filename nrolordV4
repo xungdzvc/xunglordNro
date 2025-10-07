@@ -1,4 +1,4 @@
-[{  "nameServer": "Ngọc Rồng Lord",
+[{  "nameServer": "Ngọc Rồng Lord(TEST)",
     "address": "14.225.206.147",
     "port": 14446,
     "language": 0,
@@ -10,7 +10,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 0
-},{  "nameServer": "sv1",
+},{  "nameServer": "sv1(Da OPEN)",
     "address": "14.225.206.147",
     "port": 14445,
     "language": 0,
