@@ -22,18 +22,6 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 0
-},{  "nameServer": "Ngọc Rồng Zeno",
-    "address": "103.90.226.146",
-    "port": 14445,
-    "language": 0,
-    "typeSv": 1,
-    "homeUrl": "",
-    "logoUrl": "",
-    "isUnLockOptionTemplate": 0,
-    "listPorata": " 454, 921, 2104, 1255, 1324, 1514",
-    "typeReadHpMod": 0,
-    "typeGetParam": 0,
-    "isPaintRuby": 1
 },{  "nameServer": "NROULTRA",
     "address": "103.90.226.207",
     "port": 14445,
@@ -69,5 +57,17 @@
     "listPorata": " 454, 921, 2104, 1255, 1324, 1514",
     "typeReadHpMod": 0,
     "typeGetParam": 0,
+    "isPaintRuby": 1
+},{  "nameServer": "NroHouse",
+    "address": "14.225.203.71",
+    "port": 14447,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://nrohouse.fun/",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 2104, 1255, 1324, 1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 1,
     "isPaintRuby": 1
 }]
