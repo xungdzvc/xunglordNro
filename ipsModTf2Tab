@@ -10,6 +10,18 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 0
+},{  "nameServer": "NRO Xiteen",
+    "address": "103.229.52.53",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 2104, 1255, 1324, 1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 1,
+    "isPaintRuby": 1
 },{  "nameServer": "NroHakaiR",
     "address": "anti.patus.tech",
     "port": 14447,
