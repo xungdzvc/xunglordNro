@@ -8,6 +8,6 @@
     "isUnLockOptionTemplate": 0,
     "listPorata": " 454, 921, 2104, 1324, 1406, 1514",
     "typeReadHpMod": 0,
-    "typeGetParam": 1,
-    "isPaintRuby": 1
+    "typeGetParam": 0,
+    "isPaintRuby": 0
 }]
