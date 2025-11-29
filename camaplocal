@@ -1,5 +1,5 @@
 [{  "nameServer": "NRO Cá Mập",
-    "address": "103.178.235.244",
+    "address": "127.0.0.1",
     "port": 14445,
     "language": 0,
     "typeSv": 1,
