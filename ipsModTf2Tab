@@ -10,6 +10,18 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 0
+},{  "nameServer": "Ngọc Rồng INOVA",
+    "address": "103.178.235.130",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://ngocronginova.com",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 2104, 1255, 1324, 1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isPaintRuby": 0
 },{  "nameServer": "NRO Xiteen",
     "address": "103.229.52.53",
     "port": 14445,
