@@ -22,4 +22,28 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 0
+},{  "nameServer": "9 NRO",
+    "address": "160.191.54.44",
+    "port": 14444,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://9nro.com",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 2104, 1255, 1406, 1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isPaintRuby": 1
+},{  "nameServer": "9 NRO (NEW)",
+    "address": "160.191.54.44",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://9nro.com",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 2104, 1255, 1406, 1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isPaintRuby": 1
 }]
