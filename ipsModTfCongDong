@@ -20,6 +20,7 @@
     "logoUrl": "",
     "listPorata": " 454, 921, 2104, 1255, 1406, 1514",
     "isUnLockOptionTemplate": 0,
+    "isUnLockItemTemplate": 0,
     "typeReadHpMod": 0,
     "typeGetParam": 1,
     "isPaintRuby": 0
