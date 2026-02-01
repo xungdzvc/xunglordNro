@@ -10,7 +10,7 @@
     "isUnLockItemTemplate": 1,
     "typeReadHpMod": 0,
     "typeGetParam": 1,
-    "isPaintRuby": 0
+    "isPaintRuby": 2
 },{  "nameServer": "NRODRACULA",
     "address": "160.191.87.248",
     "port": 14445,
@@ -23,7 +23,7 @@
     "isUnLockItemTemplate": 0,
     "typeReadHpMod": 0,
     "typeGetParam": 1,
-    "isPaintRuby": 0
+    "isPaintRuby": 2
 },{  "nameServer": "9 NRO",
     "address": "160.191.54.44",
     "port": 14444,
