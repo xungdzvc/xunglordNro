@@ -23,6 +23,18 @@
     "typeReadHpMod": 0,
     "typeGetParam": 1,
     "isPaintRuby": 2
+},{  "nameServer": "Ngọc Rồng Var",
+    "address": "anti2.patus.tech",
+    "port": 26225,
+    "language": 0,
+    "typeSv": 0,
+    "homeUrl": "ngocrongvar",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 1819, 1255, 1406, 1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isPaintRuby": 2
 },{  "nameServer": "9 NRO",
     "address": "160.191.54.44",
     "port": 14444,
