@@ -47,4 +47,16 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 1
+},{  "nameServer": "5 Sao",
+    "address": "36.50.135.89",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 0,
+    "homeUrl": "ngocrong5sao.online",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 2104, 1255, 1406, 1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isPaintRuby": 1
 }]
