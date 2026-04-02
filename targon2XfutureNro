@@ -23,7 +23,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 2
-}{ "nameServer": "Chiến Binh Rồng",
+},{ "nameServer": "Chiến Binh Rồng",
 "address": "163.227.230.60",
 "port": 8386,
 "language": 0,
