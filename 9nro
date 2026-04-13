@@ -9,7 +9,7 @@
     "listPorata": " 454, 921, 2104, 1255, 1406, 1514",
     "typeReadHpMod": 0,
     "typeGetParam": 0,
-    "isPaintRuby": 1
+    "isPaintRuby": 0
 },{  "nameServer": "Yêu NRO",
     "address": "157.66.47.37",
     "port": 14445,
@@ -21,5 +21,5 @@
     "listPorata": " 454, 921, 2104, 1255, 1406, 1514",
     "typeReadHpMod": 0,
     "typeGetParam": 0,
-    "isPaintRuby": 1
+    "isPaintRuby": 0
 }]
