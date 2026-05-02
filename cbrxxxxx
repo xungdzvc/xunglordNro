@@ -23,8 +23,8 @@
 "typeGetParam": 0,
 "isPaintRuby": 2
 },{  "nameServer": "Yêu NRO",
-   "address": "fw.yeunro.online",
-    "port": 14448,
+   "address": "103.56.165.26",
+    "port": 14445,
     "language": 0,
     "typeSv": 1,
     "homeUrl": "https://yeunro.online",
