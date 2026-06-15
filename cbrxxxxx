@@ -22,9 +22,9 @@
 "typeReadHpMod": 0,
 "typeGetParam": 0,
 "isPaintRuby": 2
-},{ "nameServer": "Ngọc Rồng Future",
+},{ "nameServer": "Hồi Sinh Future",
 "address": "163.227.231.6",
-"port": 14445,
+"port": 8386,
 "language": 0,
 "typeSv": 1,
 "homeUrl": "https://ngocrongfuture.com",
@@ -32,7 +32,7 @@
 "isUnLockOptionTemplate": 0,
 "listPorata": " 454, 921, 2104, 1255, 1406, 1514,  1943,  1324,1541",
 "typeReadHpMod": 0,
-"typeGetParam": 0,
+"typeGetParam": 1,
 "isPaintRuby": 2
 },{  "nameServer": "Yêu NRO",
    "address": "103.56.165.26",
