@@ -10,4 +10,16 @@
     "typeReadHpMod": 0,
     "typeGetParam": 1,
     "isPaintRuby": 2
+},{  "nameServer": "Ngọc Rồng Zeno 2",
+    "address": "180.93.98.92",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "https://ngocronglord.com",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": " 454, 921, 1943, 1255, 1324, 1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 1,
+    "isPaintRuby": 2
 }]
