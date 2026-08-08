@@ -10,7 +10,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 1,
     "isPaintRuby": 2
-}{  "nameServer": "ChiếnBinh Future",
+},{  "nameServer": "ChiếnBinh Future",
     "address": "163.227.230.60",
     "port": 14445,
     "language": 0,
