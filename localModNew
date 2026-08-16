@@ -1,0 +1,47 @@
+[
+  {
+    "nameServer": "LocalINT",
+    "address": "127.0.0.1",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "BuildMod ZALO : 0388001659",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": "454,921,2104,1255,1406,1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 0,
+    "isPaintRuby": 0,
+    "isBankQr": 0
+  },
+  {
+    "nameServer": "LocalLong_1",
+    "address": "127.0.0.1",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "BuildMod ZALO : 0388001659",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": "454,921,1541,1255,1324,1514",
+    "typeReadHpMod": 0,
+    "typeGetParam": 1,
+    "isPaintRuby": 2,
+    "isBankQr": 0
+  },
+  {
+    "nameServer": "LocalLong 2",
+    "address": "127.0.0.1",
+    "port": 14445,
+    "language": 0,
+    "typeSv": 1,
+    "homeUrl": "BuildMod ZALO : 0388001659",
+    "logoUrl": "",
+    "isUnLockOptionTemplate": 0,
+    "listPorata": "454,921,1541,1255,1324,1514",
+    "typeReadHpMod": 1,
+    "typeGetParam": 1,
+    "isPaintRuby": 2,
+    "isBankQr": 0
+  } 
+]
