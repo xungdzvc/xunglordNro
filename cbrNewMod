@@ -10,5 +10,5 @@
     "typeReadHpMod": 0,
     "typeGetParam": 1,
     "isPaintRuby": 2,
-    "isBankQr": 0
+    "isBankQr": 1
 }]
