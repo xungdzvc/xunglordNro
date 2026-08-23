@@ -13,35 +13,5 @@
     "typeGetParam": 1,
     "isPaintRuby": 2,
     "isBankQr": 1
-  },
-{
-    "nameServer": "HS future",
-    "address": "163.227.230.60",
-    "port": 8386,
-    "language": 0,
-    "typeSv": 1,
-    "homeUrl": "https://ngocrongfuture.com",
-    "logoUrl": "",
-    "isUnLockOptionTemplate": 0,
-    "listPorata": " 454, 921, 1541, 1255, 1324, 1514", 
-    "typeReadHpMod": 0,
-    "typeGetParam": 1,
-    "isPaintRuby": 2,
-    "isBankQr": 1
-  },
-{
-    "nameServer": "Chiến Binh Rồng",
-    "address": "163.227.231.46",
-    "port": 14445,
-    "language": 0,
-    "typeSv": 1,
-    "homeUrl": "https://chienbinhrong.online",
-    "logoUrl": "",
-    "isUnLockOptionTemplate": 0,
-    "listPorata": " 454, 921, 1541, 1255, 1324, 1514", 
-    "typeReadHpMod": 0,
-    "typeGetParam": 1,
-    "isPaintRuby": 2,
-    "isBankQr": 1
   }
 ]
