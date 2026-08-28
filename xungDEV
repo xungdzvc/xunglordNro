@@ -10,7 +10,7 @@
     "typeReadHpMod": 0,
     "typeGetParam": 0,
     "isPaintRuby": 2,
-    "isBankQr": 0
+    "isBankQr": 1
 },
 {  "nameServer": "Caubenro",
     "address": "157.66.46.111",
