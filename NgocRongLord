@@ -11,18 +11,4 @@
     "typeGetParam": 0,
     "isPaintRuby": 2,
     "isBankQr": 0
-},
-{  "nameServer": "Lord 2",
-    "address": "180.93.98.92",
-    "port": 19999,
-    "language": 0,
-    "typeSv": 1,
-    "homeUrl": "",
-    "logoUrl": "https://ngocronglord.com",
-    "isUnLockOptionTemplate": 0,
-    "listPorata": " 454, 921, 1541, 1255, 1324, 1514",
-    "typeReadHpMod": 0,
-    "typeGetParam": 0,
-    "isPaintRuby": 2,
-    "isBankQr": 0
-} ]
+}]
